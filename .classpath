@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="ICY_HOME/icy.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="ICY_HOME/plugins/adufour/viewers/OrthoViewer.jar"/>
+	<classpathentry kind="var" path="ICY_HOME/plugins/adufour/ezplug/EzPlug.jar"/>
+	<classpathentry kind="var" path="ICY_HOME/lib/vtk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bastien.kovac/Downloads/icy_1.7.3.0/lib/vtk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bastien.kovac/Downloads/Jama-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
